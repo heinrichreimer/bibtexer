@@ -27,7 +27,7 @@ dynamic = ["version"]
 
 [project.optional-dependencies]
 tests = [
-    "approvaltests~=15.3",
+    "approvaltests~=17.1",
     "bandit[toml]~=1.7",
     "mypy~=1.5",
     "pytest~=9.0",
